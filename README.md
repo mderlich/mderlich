@@ -29,5 +29,3 @@ It can be used by clients to consult in same salon and also remote for delivery/
 
 - Move - Ecommerce with NodeJS
 ...Github - Final Proyect            https://github.com/mderlich/grupo_1_move
-...Digital House - Final Proyect 1/2  https://www.youtube.com/watch?v=uFaZpZgcSH8
-...Digital House - Final Proyect 2/2  https://www.youtube.com/watch?v=Tw4G1KWH6eg
