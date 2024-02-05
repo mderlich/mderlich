@@ -27,4 +27,4 @@
 It can be used by clients to consult in same salon and also remote for delivery/takeaway orders by Whatsapp.
 ( HTML / CSS / JAVASCRIPT / PHP / SQL )
 
-- [Move](https://github.com/mderlich/grupo_1_move) - Ecommerce with NodeJS
+- [Move](https://github.com/mderlich/grupo_1_move) - Ecommerce with NodeJS. You can see full code in the github link
