@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Matias Derlich creator of [MenuconQR.com](https://menuconqr.com)
+# 👋 Hi, I’m Matias Derlich from Argentina
 <br>
 
 - ✅ Fullstack Developer
@@ -18,7 +18,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
-### 🌱 My latest projects
+<br>
+
+# 🌱 My latest projects
+
 
 - [MenuconQR.com](https://menuconqr.com/) - Digital menu service for gastronomics, with a control panel for managment and edit. 
 It can be used by clients to consult in same salon and also remote for delivery/takeaway orders by Whatsapp.
@@ -26,5 +29,7 @@ It can be used by clients to consult in same salon and also remote for delivery/
 
 - Move - Ecommerce with NodeJS
 ...Github - Final Proyect            https://github.com/mderlich/grupo_1_move
+<br>
 ...Digital House - Final Proyect 1/2  https://www.youtube.com/watch?v=uFaZpZgcSH8
+<br>
 ...Digital House - Final Proyect 2/2  https://www.youtube.com/watch?v=Tw4G1KWH6eg
