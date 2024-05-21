@@ -4,7 +4,7 @@
 
 - ✅ Fullstack Developer
 - 👀 Interested in tech challenges
-- 🌱 Always learning... JavaScript, NodeJS, PHP, MYSQL, HTML, CSS
+- 🌱 Always learning... JavaScript, Typescript, Angular, NodeJS, C#, PHP, MYSQL, ORACLE, HTML, CSS
 - 📫 How to reach me... https://www.linkedin.com/in/ingmderlich/
 
 <br>
