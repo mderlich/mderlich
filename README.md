@@ -3,7 +3,7 @@
 
 
 - ✅ Fullstack Developer
-- 🌱 Always learning... PYTHON, HTML, CSS, JavaScript, Angular, NodeJS, C#, PHP, MYSQL, POSTGRE, ORACLE...
+- 🌱 Always learning... PYTHON, HTML, CSS, JavaScript, Angular, PHP, MYSQL, POSTGRE...
 - 📫 How to reach me... https://www.linkedin.com/in/ingmderlich/
 
 <br>
